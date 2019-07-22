@@ -2,13 +2,13 @@
 
 # Blog link explaining
 
-// TODO INSERT
+[Blog link](https://maknee.github.io/opengl/2019/07/21/Running-opengl-under-WSL/)
 
 # Demo
 
 [](images/running.gif)
 
-Note: This is a modified example from (learnopengl)[https://learnopengl.com/Getting-started/Camera]
+Note: This is a modified example from [learnopengl](https://learnopengl.com/Getting-started/Camera)
 
 # Setup
 
@@ -22,7 +22,3 @@ cd OpenglUnderWSL
 make
 MESA_GL_VERSION_OVERRIDE=3.3 ./test_program
 `
-
-## Tracing with uftrace
-
-
