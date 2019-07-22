@@ -1,6 +1,6 @@
 # Running opengl under wsl
 
-# Blog link explaining
+# Blog link
 
 [Blog link](https://maknee.github.io/opengl/2019/07/21/Running-opengl-under-WSL/)
 
