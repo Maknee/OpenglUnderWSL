@@ -14,7 +14,7 @@ Note: This is a modified example from [learnopengl](https://learnopengl.com/Gett
 
 ## Basic example
 
-`
+```
 git clone --recursive https://github.com/Maknee/OpenglUnderWSL
 
 cd OpenglUnderWSL
@@ -26,4 +26,4 @@ cd OpenglUnderWSL
 make
 
 MESA_GL_VERSION_OVERRIDE=3.3 ./test_program
-`
+```
