@@ -6,7 +6,7 @@
 
 # Demo
 
-[](images/running.gif)
+<img align="center" src="images/running.gif" width="100%">
 
 Note: This is a modified example from [learnopengl](https://learnopengl.com/Getting-started/Camera)
 
