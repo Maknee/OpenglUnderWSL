@@ -16,9 +16,14 @@ Note: This is a modified example from [learnopengl](https://learnopengl.com/Gett
 
 `
 git clone --recursive https://github.com/Maknee/OpenglUnderWSL
+
 cd OpenglUnderWSL
+
 ./setup.sh
+
 ./test.sh
+
 make
+
 MESA_GL_VERSION_OVERRIDE=3.3 ./test_program
 `
